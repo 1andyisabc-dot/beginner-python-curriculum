@@ -1,7 +1,7 @@
 # Problem 1
 # Create a variable for your favorite number and print it.
-
-
+favorite_number = 67
+print("my favorite number is", favorite_number)
 
 # Problem 2
 # Create a variable for your height in meters and print it.
